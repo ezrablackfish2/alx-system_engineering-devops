@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo mv hello betty
+chown hello betty
