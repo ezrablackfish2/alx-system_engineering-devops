@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# Displays 'Best School' in stdout 10 times using the while then at 9th it has hi loop
+
+i=0
+
+while (( i < 10 ))
+do
+	if ((i == 9 ))
+		then
+			echo "Hi"
+		fi
+			echo "Best School"
+			  ((i++))
+done
