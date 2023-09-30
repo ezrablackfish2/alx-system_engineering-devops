@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#this makes "To infinity and beyong" indefinitely
+
+while ((1>0))
+do
+	echo "To infinity and beyond"
+	sleep 2
+done
