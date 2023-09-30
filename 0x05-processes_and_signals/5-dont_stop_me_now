@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#this kills the 4-infinty code 
+
+kill "$(pgrep -f 4-to-infinity_and_beyond)"
